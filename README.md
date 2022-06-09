@@ -1,2 +1,0 @@
-# pracownia
-Strona do ćwiczeń
